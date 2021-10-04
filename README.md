@@ -41,6 +41,9 @@
 </ol>
 <hr/>
 
+  [![PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법](https://user-images.githubusercontent.com/13171662/135889891-ef5160a4-3bfc-430f-8a15-8774ee0d9835.png)](https://youtu.be/5bzSeuSBMBA "PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법")
+
+
 ### 주의사항
 #### platformio.ini에 [env:xxxxx] 는 하나만 넣는다. 
 
