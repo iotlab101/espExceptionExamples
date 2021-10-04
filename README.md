@@ -1,3 +1,6 @@
+  [![PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법](https://user-images.githubusercontent.com/13171662/135889891-ef5160a4-3bfc-430f-8a15-8774ee0d9835.png)](https://youtu.be/5bzSeuSBMBA "PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법")
+
+
 <h2>esp8266 stack dump 보는 법</h2>
 <p>이유를 알수 없이 esp8266 Arduino 프로그램이 다운되거나 리부팅이 될때, 원인분석을 하기 위해서는 esp8266의 stack 정보를 분석하여야 한다. 이를 위해 다음과 같은 절차를 수행하면 된다</p> 
 <ol> 
@@ -40,8 +43,6 @@
     <li>더 분석하고자 하는 파일에 마우스 포인터를 올리고 Cmd + Click 혹은 Ctrl + Click 하여 해당 source 코드로 이동하여 분석한다.</li>
 </ol>
 <hr/>
-
-  [![PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법](https://user-images.githubusercontent.com/13171662/135889891-ef5160a4-3bfc-430f-8a15-8774ee0d9835.png)](https://youtu.be/5bzSeuSBMBA "PlatformIO/VSCode에서 esp8266의 Exception / Stack dump 보는 법")
 
 
 ### 주의사항
